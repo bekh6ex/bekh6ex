@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Aleksei 👋
+
+I am an advocate of Agile ways of working, team autonomy, Test-Driven Development and Continuous Delivery. I have a passion for testing (all the possible variants of it), automation, security, privacy and software design.
 
 <!--
 **bekh6ex/bekh6ex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
